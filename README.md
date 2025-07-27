@@ -20,8 +20,8 @@
 ### 🔹 Step 1: Fork & Star This Repo
 Help support the project by clicking the buttons below. Fork it to your GitHub and give it a star!
 
-[![Fork](https://img.shields.io/github/forks/MLILA17/Dml4?label=Fork&style=for-the-badge&logo=git)](https://github.com/MLILA17/Dml4/forks)
-[![Star](https://img.shields.io/github/stars/MLILA17/Dml4?label=Star&style=for-the-badge&logo=github)](https://github.com/MLILA17/Dml4/stargazers)
+[![Fork](https://img.shields.io/github/forks/MLILA17/TESLA-AI?label=Fork&style=for-the-badge&logo=git)](https://github.com/MLILA17/TESLA-AI/forks)
+[![Star](https://img.shields.io/github/stars/MLILA17/TESLA-AI?label=Star&style=for-the-badge&logo=github)](https://github.com/MLILA17/TESLA-AI/stargazers)
 
 ---
 
@@ -37,7 +37,7 @@ You need a session to connect your bot. Choose your preferred method:
 ### 🔹 Step 3: Deploy with One Click
 Easily deploy to Heroku with the button below:
 
-[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MLILA17/Dml4)
+[![Deploy](https://img.shields.io/badge/DEPLOY_TO_HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MLILA17/TESLA-AI)
 
 </div>
 
