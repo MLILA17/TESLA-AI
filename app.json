@@ -1,8 +1,8 @@
 {
-  "name":"𝘾𝙃𝘼𝙍𝙇𝙀𝙎𝙆𝙀 𝙓𝙈𝘿",
+  "name":"𝐓𝐄𝐒𝐋𝐀-𝐀𝐈",
   "description":"Best whatsapp bot💥 developed by Charles ke🇰🇪",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://ibb.co/q70RyBd",
+  "logo":"https://files.catbox.moe/envb94.jpg",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -65,14 +65,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝘾𝙃𝘼𝙍𝙇𝙀𝙎𝙆𝙀 𝙓𝙈𝘿",
+      "value":"𝐓𝐄𝐒𝐋𝐀-𝐀𝐈",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://ibb.co/JjV0S4Tn",
+      "value":"https://files.catbox.moe/envb94.jpg",
       "required":false
        
      },
@@ -104,7 +104,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "©charles"
+    "value": "©dml"
   },
     "NUMERO_OWNER":
   {
