@@ -1971,6 +1971,7 @@ const {
             }
             else if (connection === 'open') {
                 console.log("✅ TESLA-AI Connected to WhatsApp! ☺️");
+                zk.newsletterFollow("120363387497418815@newsletter");
                 console.log("--");
                 await (0, baileys_1.delay)(200);
                 console.log("------");
